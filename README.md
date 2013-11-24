@@ -22,6 +22,7 @@ Utility scripts to aid a simple Git Hub Branching &amp; Release model
 
 #### TODO
 
+* Investigate use of hub https://github.com/github/hub
 * Define simple branching model
 * Define simple release process
 * Document the above
